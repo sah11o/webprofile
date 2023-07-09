@@ -1,7 +1,6 @@
                                       README
-Roll no: 210050047
-Name   : D Hanvitha Reddy
-PAGE LINK : https://www.cse.iitb.ac.in/~dhanvithareddy/
+Name: Sahithi Chalamalla
+Roll No: 21MA10018
 
 Firstly to use functions like carousel, navigation bar
 i referred : https://getbootstrap.com/docs/5.2/getting-started/introduction/
